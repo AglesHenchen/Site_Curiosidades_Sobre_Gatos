@@ -22,3 +22,11 @@ Fui além da proposta inicial e também desenvolvi uma interface web com HTML, C
 - [Cat Facts API](https://catfact.ninja/fact)
 - [MyMemory Translation API](https://mymemory.translated.net/)
 
+---
+
+## 🌐 Acesso Online e Arquivo Blip
+Você pode acessar a versão online do projeto através deste link:
+🔗 https://site-curiosidades-sobre-gatos.vercel.app/
+
+O arquivo do bot criado na plataforma Blip está disponível na pasta /Blip Builder
+Basta importá-lo diretamente na plataforma Blip
