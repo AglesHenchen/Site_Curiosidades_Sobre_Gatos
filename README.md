@@ -1,4 +1,4 @@
-# Curiosidades Sobre Gatos 🐱
+# Curiosidades Sobre Gatos 🐈
 
 Projeto desenvolvido como parte de um desafio técnico, com o objetivo principal de criar um bot no Blip que responde curiosidades aleatórias sobre gatos. 
 
